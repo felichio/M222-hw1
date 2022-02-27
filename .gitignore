@@ -1,5 +1,7 @@
 .Python
 build/
+bin/
+pyenv.cfg
 develop-eggs/
 dist/
 downloads/
@@ -11,8 +13,10 @@ parts/
 sdist/
 var/
 wheels/
+share/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+__pycache__/
 MANIFEST
