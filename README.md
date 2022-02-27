@@ -1,5 +1,5 @@
 Original Repo: [https://github.com/panagiotisl/network-properties-with-networkx](https://github.com/panagiotisl/network-properties-with-networkx)  
-Graph Url: [https://www.kaggle.com/stackoverflow/stack-overflow-tag-network/](https://www.kaggle.com/stackoverflow/stack-overflow-tag-network/)  
+Graph Url: [https://www.kaggle.com/stackoverflow/stack-overflow-tag-network/](https://www.kaggle.com/stackoverflow/stack-overflow-tag-network/) (stack_network_links.csv)   
 
 ### Build and Run
 python version used: 3.8.0
